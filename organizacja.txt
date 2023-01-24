@@ -1,0 +1,4 @@
+//szablony: są półki z grami i są książkami, chcemy je posortować w wektorze alfabetycznie, lub wypożyczyć albo zwrócić
+//pojemniki: itemy na półkach to wektory
+//stl przegladanie obiektow: funkcje w półkach do wyszukiwania konkretnych typów książek, gier, iterator, wyszykiwanie informacji po autorze, tytule, ilości wypożyczeń
+//metaprogramowanie: jkaieś funkcje ewaluacyjne, np liczenie ile jest konkretnych typów książek procentowo, ile wypożyczeń
